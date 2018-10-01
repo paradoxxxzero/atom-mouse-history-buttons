@@ -10,7 +10,7 @@
     "button9",
     "linux"
   ],
-  "repository": "https://github.com/paradoxxxzero/atom-mouse-history-buttons",
+  "repository": "git@github.com:paradoxxxzero/atom-mouse-history-buttons.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
