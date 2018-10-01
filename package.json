@@ -1,9 +1,15 @@
 {
   "name": "mouse-history-buttons",
   "main": "./lib/mouse-history-buttons",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "[Linux ONLY] Allows to map the back and forward mouse buttons (button8 and button9) to atom commands",
-  "keywords": ["mouse", "history", "button8", "button9", "linux"],
+  "keywords": [
+    "mouse",
+    "history",
+    "button8",
+    "button9",
+    "linux"
+  ],
   "repository": "https://github.com/paradoxxxzero/atom-mouse-history-buttons",
   "license": "MIT",
   "engines": {
